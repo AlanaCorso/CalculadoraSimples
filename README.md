@@ -1,3 +1,7 @@
+## 📷 Demonstração
+
+<img width="468" height="416" alt="Captura de tela 2026-09-17 091418" src="https://github.com/user-attachments/assets/5a00dacf-9104-45ec-8ff4-b793946e1d7a" />
+
 # 🧮 Calculadora Simples — React JS
 
 Projeto desenvolvido como desafio prático de fixação de conceitos de **React JS**, baseado no exemplo da Calculadora de IMC. A aplicação permite realizar as quatro operações matemáticas básicas (soma, subtração, multiplicação e divisão) entre dois números informados pelo usuário.
